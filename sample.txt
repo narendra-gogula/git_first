@@ -1,0 +1,2 @@
+This is the first sample git file
+this needs to be go into repo
